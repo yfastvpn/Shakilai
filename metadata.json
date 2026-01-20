@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Shakil AI Assistant",
+  "description": "An interactive map-based chatbot using real-time Google Maps and Search grounding with Live Voice support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
